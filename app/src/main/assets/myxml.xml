@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <productname>牛仔褲</productname>
+    <productcolor>紅色</productcolor>
+    <productquantity>5件</productquantity>
+  </product>
+  <product>
+    <productname>T恤</productname>
+    <productcolor>藍色</productcolor>
+    <productquantity>3件</productquantity>
+  </product>
+  <product>
+    <productname>短袖</productname>
+    <productcolor>綠色</productcolor>
+    <productquantity>4件</productquantity>
+  </product>
+</products>
