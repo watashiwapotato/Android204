@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GD02.iml" filepath="$PROJECT_DIR$/GD02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android204.iml" filepath="$PROJECT_DIR$/Android204.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
